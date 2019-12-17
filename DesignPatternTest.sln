@@ -1,11 +1,11 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "装饰模式", "DesignPatternTest\装饰模式.csproj", "{A7DC5CA9-8B51-4122-B5C4-18AB8F5A2C8D}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "工厂模式", "工厂模式\工厂模式.csproj", "{74C2D988-5BE4-4C33-8B05-54426CD32EDA}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "策略模式", "策略模式\策略模式.csproj", "{02049957-48AD-4785-A2A0-A8A885571847}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "装饰模式", "装饰模式\装饰模式.csproj", "{7C752EC4-05BA-47D6-8090-FA45F2DF7B7B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,10 +13,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{A7DC5CA9-8B51-4122-B5C4-18AB8F5A2C8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A7DC5CA9-8B51-4122-B5C4-18AB8F5A2C8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A7DC5CA9-8B51-4122-B5C4-18AB8F5A2C8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A7DC5CA9-8B51-4122-B5C4-18AB8F5A2C8D}.Release|Any CPU.Build.0 = Release|Any CPU
 		{74C2D988-5BE4-4C33-8B05-54426CD32EDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{74C2D988-5BE4-4C33-8B05-54426CD32EDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{74C2D988-5BE4-4C33-8B05-54426CD32EDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -25,5 +21,9 @@ Global
 		{02049957-48AD-4785-A2A0-A8A885571847}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{02049957-48AD-4785-A2A0-A8A885571847}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{02049957-48AD-4785-A2A0-A8A885571847}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C752EC4-05BA-47D6-8090-FA45F2DF7B7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C752EC4-05BA-47D6-8090-FA45F2DF7B7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C752EC4-05BA-47D6-8090-FA45F2DF7B7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C752EC4-05BA-47D6-8090-FA45F2DF7B7B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
