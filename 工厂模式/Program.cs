@@ -6,7 +6,13 @@ namespace 工厂模式
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Opeartion oper = OperationController.CreatOperation("+");
+            oper.NumA = 10;
+            oper.NumB = 20;
+
+            
+
+            Console.WriteLine(oper.GetResult());
         }
     }
 }
