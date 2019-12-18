@@ -1,5 +1,9 @@
 ﻿using System;
 
+/*
+最简单的设计模式
+*/
+
 namespace 工厂模式
 {
     class Program

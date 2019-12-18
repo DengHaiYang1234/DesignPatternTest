@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "策略模式", "策略模�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "装饰模式", "装饰模式\装饰模式.csproj", "{7C752EC4-05BA-47D6-8090-FA45F2DF7B7B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "代理模式", "代理模式\代理模式.csproj", "{0475AAC8-CEF8-4F83-A54F-8A4A05E8E195}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "工厂方法模式", "工厂方法模式\工厂方法模式.csproj", "{D14C5C88-35A7-4BA0-A531-3D5D5C18D1CC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,5 +29,13 @@ Global
 		{7C752EC4-05BA-47D6-8090-FA45F2DF7B7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7C752EC4-05BA-47D6-8090-FA45F2DF7B7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7C752EC4-05BA-47D6-8090-FA45F2DF7B7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0475AAC8-CEF8-4F83-A54F-8A4A05E8E195}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0475AAC8-CEF8-4F83-A54F-8A4A05E8E195}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0475AAC8-CEF8-4F83-A54F-8A4A05E8E195}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0475AAC8-CEF8-4F83-A54F-8A4A05E8E195}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D14C5C88-35A7-4BA0-A531-3D5D5C18D1CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D14C5C88-35A7-4BA0-A531-3D5D5C18D1CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D14C5C88-35A7-4BA0-A531-3D5D5C18D1CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D14C5C88-35A7-4BA0-A531-3D5D5C18D1CC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
