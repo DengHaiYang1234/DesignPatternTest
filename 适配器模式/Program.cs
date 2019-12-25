@@ -12,7 +12,6 @@ namespace 适配器模式
         {
             Player player1 = new Translate("姚明");
             player1.Attack();
-            player1.Defense();
 
             Player player2 = new Forward("麦迪");
             player2.Attack();
